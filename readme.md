@@ -19,7 +19,7 @@
 🧰 **Tech Stack**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,java,docker,aws, flutter, dart, react-native" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,java,docker,aws,flutter,dart,react-native" />
 </p>
 
 ---
